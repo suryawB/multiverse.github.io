@@ -118,7 +118,7 @@ header {
 }
 
 /* Tambahkan CSS untuk menu-icon */
-.menu-icon {
+span.menu-icon {
   color: white;
   float: right; 
   font-size: 25px;
